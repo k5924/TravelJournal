@@ -1,0 +1,71 @@
+.card--details {
+  display: flex;
+  flex-direction: row;
+  margin: 45px 0 0 40px;
+
+}
+
+.card--image {
+  width: 125px;
+  height: 168px;
+  border-radius: 5px;
+}
+
+.card--locationDetails {
+  margin: 0 0 0 20px;
+}
+
+.card--locationDetails a {
+  font-size: 10.24px;
+  line-height: 12px;
+  color: #918E9B;
+  margin-left: 12px;
+}
+
+.card--links {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 7px;
+}
+
+.card--pin {
+  width: 7px;
+  height: 9.55px;
+  margin-right: 5px;
+}
+
+.card--country {
+  font-size: 11px;
+  line-height: 12px;
+  letter-spacing: 0.17em;
+
+  color: #2B283A;
+}
+
+.card--locationName {
+  margin: 7px 0 10px 0;
+}
+
+.card--length {
+  margin-bottom: 10px;
+  font-weight: bold;
+  font-size: 11px;
+  line-height: 12px;
+
+  color: #2B283A;
+}
+
+.card--description {
+  margin: 0;
+  font-size: 11px;
+  line-height: 15px;
+  color: #2B283A;
+  text-align: left;
+  width: 326px;
+}
+
+.separator {
+  margin: 18px 32px 18px 40px;
+  width: 478px;
+  border: 1px solid #F5F5F5;
+}
